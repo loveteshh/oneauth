@@ -168,7 +168,7 @@ was a little lacking on lastuser, and (b) we were more comfortable on a
 NodeJS+Postgres based stack.
 
 ## Support on Beerpay
-You can support the project via BeerPay
+You can support the project via BeerPay.
 Buy us a beer !
 
 [![Beerpay](https://beerpay.io/coding-blocks/oneauth/badge.svg?style=beer-square)](https://beerpay.io/coding-blocks/oneauth)  [![Beerpay](https://beerpay.io/coding-blocks/oneauth/make-wish.svg?style=flat-square)](https://beerpay.io/coding-blocks/oneauth?focus=wish)
